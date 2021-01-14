@@ -1,0 +1,21 @@
+.card-image{
+    border: none;
+}
+.to-top{
+    font-size: 30px;
+    font-weight: 700px;
+    text-decoration: none;
+    background-color: #417de4;
+    text-align: center;
+    display: block;
+    color: hsla(0, 89%, 48%, 0.857);
+    margin: 10px;
+    border-radius: 10px;
+} 
+.office{
+    text-align: center;
+    color: #d65f10;
+} 
+.high-light{
+    background-color: rgb(23, 84, 105);
+}
